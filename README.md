@@ -1,4 +1,4 @@
-# 🔵 Cyber Agar: 球球大作战 (Cyber Edition) 🌈
+# 🔵 Cyber Agar: 球球大作战 (Cyber Edition) 🌈（不够完善）
 
 嘿！欢迎来到我的球球世界！这是一个基于 **C++** 和 **EasyX** 图形库开发的 2D 竞技生存游戏。
 
